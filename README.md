@@ -1,15 +1,10 @@
-# Ronnie's Health and Fitness — Affiliate Bridge Pages
+# Ronnie's Health Offers
 
-Static landing pages for Digistore24 offers (affiliate: rongabby).
+Bridge landing pages for Digistore24 affiliate offers on [ronnieshealth.com](https://ronnieshealth.com).
 
-## Pages
-- `/` — hub
-- `/slimsana/` — SlimSana (recommended Shorts lead)
-- `/ketosana/` — KetoSana
-- `/metabosana/` — MetaboSana
+## Lead offer (US Shorts)
+- **Ultimate Keto Meal Plan** → `/keto-meal-plan/` → affiliate `#aff=rongabby`
+- Soft claims only (meal plan / recipes). English / USD / digital.
 
-## Deploy
-```bash
-cd /workspace/ronnie-health-offers
-vercel --prod --yes
-```
+## Paused for US Shorts (EU / euro)
+- SlimSana, KetoSana, MetaboSana — German-market funnels; kept live but not used as Shorts CTAs.
